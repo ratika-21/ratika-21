@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Web development**
 - 🌱 I’m currently learning **Data structures and Algorithms**
 - 💞️ I’m looking to collaborate on **OpenSource projects**
-- 📫 How to reach me **ratikaswami2106@gmail.com**
+- 📫 How to reach me **12ratikaswami@gmail.com**
 -
 
 <!---
